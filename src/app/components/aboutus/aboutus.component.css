@@ -1,0 +1,33 @@
+.main{
+    width: 100%;
+}
+
+.mid-text h1{
+    text-align: center;
+    color: #0a595d;
+    font-size: 60px;
+    color: #0e2d53;
+    margin-top:90px ;
+    
+}
+.mid-text p{
+
+    color: #0e2d53;
+    text-align: center;
+    font: bold;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.left-img{
+float: left;
+}
+
+.right-img{
+    float: right;
+}
+@media screen and (max-width : 1062px){
+    .right-img{
+        width: 0px;
+        height: 0px;
+    }
+}

@@ -1,0 +1,21 @@
+.main h3,h1,p{
+    text-align: center;
+    color: #0a595d;
+    margin-top: 30px;
+}
+.main p{
+    max-width: 90%;
+}
+.main h4{
+    text-align: center;
+    color: #0a595d;
+    transform: rotate(90deg);
+    font-size: 40px;
+}
+.left-img{
+    margin-top: 80px;
+}
+.right-img{
+    margin-top: 500px;
+    float: right;
+}
